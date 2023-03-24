@@ -1,3 +1,13 @@
+"""
+Name: ping.py
+Author: Austin Boone
+Date: March 24th, 2923
+
+Used to ping a remote host to test network connectivity.
+It uses the ping3 library to send ICMP echo requests to the 
+specified host and measure the round-trip time.
+"""
+
 import ping3
 import argparse
 import sys
