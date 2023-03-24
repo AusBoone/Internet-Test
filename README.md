@@ -1,6 +1,6 @@
 # Internet-Test
 
-This is a Python script that can be used to ping a remote host to test network connectivity. It uses the ping3 library to send ICMP echo requests to the specified host and measure the round-trip time.
+'ping.py' is a Python script that can be used to ping a remote host to test network connectivity. It uses the ping3 library to send ICMP echo requests to the specified host and measure the round-trip time.
 
 # Usage
 To use the ping script, you must have Python installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
