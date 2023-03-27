@@ -1,3 +1,9 @@
+"""
+Name: ping.py
+Author: Austin Boone
+Date: March 27th, 2023
+"""
+
 import ping3
 import argparse
 import sys
